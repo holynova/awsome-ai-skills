@@ -2,6 +2,11 @@
 
 个人收集的 AI skills 与配套工具，按使用场景查找。这里提供上游入口，不分发 skill 源码；安装方式与适用的 Agent 以各仓库当前说明为准。
 
+<p align="center">
+  <img src="assets/readme/hero.svg" width="100%" alt="Awesome AI Skills: 个人收集的 AI skills 与配套工具，按使用场景查找。这里提供上游入口，不分发 skill 源码；安装方式与适用的 Agent 以各仓库当前说明为准。">
+</p>
+
+
 [界面与动效](#界面与动效) · [图像创作](#图像创作) · [开发与文档](#开发与文档) · [信息与资源](#信息与资源)
 
 ## 界面与动效
