@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="1200" height="360" viewBox="0 0 1200 360"
+     role="img" aria-labelledby="title desc">
+  <title id="title">awsome-ai-skills — 精选 AI 技能与资源清单</title>
+  <desc id="desc">暖棕底标题：awsome-ai-skills，精选 AI 技能与资源清单；右侧是四张链接卡片：impeccable、emil、小黑插图、mattpocock。</desc>
+
+  <rect width="1200" height="360" rx="26" fill="#17140f"/>
+
+  <g id="title-block" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">
+    <text x="56" y="62" font-size="19" letter-spacing="3" fill="#a89a7a">CURATED LIST · AI SKILLS &amp; RESOURCES</text>
+    <text x="56" y="128" font-size="54" font-weight="700" fill="#e8b44a">awsome-ai-skills</text>
+    <text x="56" y="168" font-size="23" fill="#ede3d3">精选 AI 技能与资源清单</text>
+    <text x="56" y="204" font-size="19" fill="#a89a7a">UI/UX、作图、开发、信息获取——11 个已验证的技能仓库。</text>
+    <g id="chips" font-size="18" fill="#ede3d3" text-anchor="middle">
+      <g><rect x="56" y="238" width="126" height="36" rx="18" fill="#241f18" stroke="#4a3f2c" stroke-width="1.5"/><text x="119" y="262">11 个链接</text></g>
+      <g><rect x="194" y="238" width="110" height="36" rx="18" fill="#241f18" stroke="#4a3f2c" stroke-width="1.5"/><text x="249" y="262">6 个分类</text></g>
+      <g><rect x="316" y="238" width="126" height="36" rx="18" fill="#241f18" stroke="#4a3f2c" stroke-width="1.5"/><text x="379" y="262">持续收集中</text></g>
+    </g>
+    <text x="56" y="316" font-size="17" fill="#a89a7a">UI/UX · 作图 · 开发 · 信息 · 资源下载</text>
+  </g>
+
+  <g id="link-cards" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Microsoft YaHei', sans-serif">
+    <g>
+      <rect x="800" y="44" width="330" height="56" rx="10" fill="#241f18" stroke="#4a3f2c" stroke-width="1.5"/>
+      <circle cx="826" cy="72" r="6" fill="#5b9dff"/>
+      <text x="844" y="79" font-size="18" fill="#ede3d3">impeccable · UI 审计</text>
+      <path d="M1102,64 h10 v10 M1112,64 l-8,8" fill="none" stroke="#a89a7a" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <g>
+      <rect x="800" y="112" width="330" height="56" rx="10" fill="#241f18" stroke="#4a3f2c" stroke-width="1.5"/>
+      <circle cx="826" cy="140" r="6" fill="#f5a623"/>
+      <text x="844" y="147" font-size="18" fill="#ede3d3">emil · UI 动效</text>
+      <path d="M1102,132 h10 v10 M1112,132 l-8,8" fill="none" stroke="#a89a7a" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <g>
+      <rect x="800" y="180" width="330" height="56" rx="10" fill="#241f18" stroke="#4a3f2c" stroke-width="1.5"/>
+      <circle cx="826" cy="208" r="6" fill="#3fb950"/>
+      <text x="844" y="215" font-size="18" fill="#ede3d3">小黑插图 · Ian 风格配图</text>
+      <path d="M1102,200 h10 v10 M1112,200 l-8,8" fill="none" stroke="#a89a7a" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <g>
+      <rect x="800" y="248" width="330" height="56" rx="10" fill="#241f18" stroke="#4a3f2c" stroke-width="1.5"/>
+      <circle cx="826" cy="276" r="6" fill="#c084fc"/>
+      <text x="844" y="283" font-size="18" fill="#ede3d3">mattpocock · 开发</text>
+      <path d="M1102,268 h10 v10 M1112,268 l-8,8" fill="none" stroke="#a89a7a" stroke-width="2" stroke-linecap="round"/>
+    </g>
+    <text x="965" y="336" font-size="17" fill="#a89a7a" text-anchor="middle">+ 7 个链接见正文</text>
+  </g>
+</svg>
